@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ru.bigs-slots.vip/sitemap.xml

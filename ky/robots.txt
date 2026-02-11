@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ky.bigs-slots.vip/sitemap.xml
